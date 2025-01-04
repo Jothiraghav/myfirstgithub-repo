@@ -1,3 +1,5 @@
-another file created in BR-1 branch
+Replaced line in BR-3 branch
 
 this file was modified in locally.
+
+THis line was added in BR-3 branch
